@@ -3,3 +3,5 @@
 
 
 ## TOP 50+ Interview questions
+
+1. Explain the main purpose of an operating system?
