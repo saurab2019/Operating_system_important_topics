@@ -13,6 +13,6 @@
   - Demand paging is referred when not all of a process's pages are in the RAM, then the OS brings the missing(and required ) pages from the disk into the RAM.
   
   
-3. #What are the advantages of a multiprocessor system?
+3. # What are the advantages of a multiprocessor system?
   - with an increased number of  processors, there is considerable increase in throughput.It can also save more money because they can share resources .
   - Finally,overall reliability is increased as well. 
